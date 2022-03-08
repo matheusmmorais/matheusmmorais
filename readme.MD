@@ -4,30 +4,25 @@
 ```javascript
  
 const WhoAmI = {
-  pronouns: "she" | "her",
-  user: "Emanuela Coutinho",
+  pronouns: "he" | "him",
+  user: "Matheus Martins",
   role: "frontend",
   current_edu: "Rocketseat"
-  techCommunities: [
-   "TecnoCrias",
-   "Pessoas de Tech"
-  ],
   hobbies: [
    "Studying",
-   "Watching Anime",
-   "Playing ARPG",
+   "Playing Guitar",
    "Being up all Night chasing that ONE BUG..."
     ]
   }
 	
  function getCurrentCity() {
-	return Curitiba_Brazil
+	return CajamarSP_Brazil
   }
 	
 function Ambitions() {
-	travelToJapan()
-	maybeCreateSkyNet()
-	startWritingMyBook()
+	travelAllWorld()
+	makeACarrerTransition()
+	startWritingMySong()
 //Assume 10 more awesome ambitions here ;)
 	} 
  ```
