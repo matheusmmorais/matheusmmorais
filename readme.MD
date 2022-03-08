@@ -1,5 +1,5 @@
 
- <h2>Hello world!<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2> 
+ <h2>Hello world!</h2> 
 
 ```javascript
  
@@ -28,12 +28,12 @@ function Ambitions() {
  ```
  
 
-<h3 align="left"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">A little more about me...</h3>
+<h3 align="left">A little more about me...</h3>
 <p>🆙 I'm currently a web development student, focused on the main frontend technologies. </p>
 <p>👾 I’m currently on career transition.</p>
 
 #
-<h3 align="left">Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> 
